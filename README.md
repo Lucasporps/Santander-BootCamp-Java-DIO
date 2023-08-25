@@ -20,9 +20,9 @@ Repositório para organizar e armazenar os desafios de projetos desenvolvidos ao
 ##
 
 ## Projetos
-| Projeto |  |
+| Projeto | Descrção |
 | --- | --- |
-| `ContaBanco` | [![Link do Lab](https://img.shields.io/badge/ACESSAR-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) |
+| `ContaBanco` | Simulação de criação de uma conta bancária |
 
 ##
 <div align="center">Feito por <a href="https://github.com/Lucasporps">Lucas</a>.</div>
