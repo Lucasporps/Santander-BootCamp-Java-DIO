@@ -23,6 +23,7 @@ Repositório para organizar e armazenar os desafios de projetos desenvolvidos ao
 | Projeto | Descrção |
 | --- | --- |
 | `ContaBanco` | Simulação de criação de uma conta bancária |
+| `DesafioControleFluxo` | Implementação de um contador para fixar conceitos |
 
 ##
 <div align="center">Feito por <a href="https://github.com/Lucasporps">Lucas</a>.</div>
